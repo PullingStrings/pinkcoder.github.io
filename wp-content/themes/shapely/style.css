@@ -1130,7 +1130,7 @@ th, td {
 /*!---------- 5. SECTIONS ----------*/
 
 section, footer {
-	padding: 96px 0;
+	padding: 0px 0;
 	position: relative;
 	overflow: hidden;
 }
