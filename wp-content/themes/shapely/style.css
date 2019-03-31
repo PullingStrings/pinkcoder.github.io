@@ -1370,7 +1370,6 @@ nav .btn, .nav-bar .btn {
 }
 
 nav {
-	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 	background-color: rgba(255,255,255,1);
 }
 
@@ -4452,7 +4451,7 @@ aside .shapely-social .shapely-social-icon {
 }
 
 .pt0 {
-	padding-top: 30px; }
+	padding-top: 0px; }
 
 /* WooCommerce */
 .woocommerce-product-gallery figure {
